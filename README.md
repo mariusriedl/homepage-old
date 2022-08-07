@@ -1,15 +1,15 @@
 # Homepage
 
-##Intro
+## Intro
 
 This is my personal homepage
 
-##URL
+## URL
 
 https://www.mariusriedl.com/
 
-##Author
+## Author
 
-**Marius Riedl**
-I made this.
+**Marius Riedl** \
+I made this. \
 Cool.
