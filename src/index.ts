@@ -3,7 +3,7 @@ import express from "express";
 const app = express();
 const PORT = 8080;
 
-app.use(express.static("src/static"));
+app.use(express.static("static"));
 
 app.get("/", (req, res) => {
   res.redirect("pages/home/index.html");
